@@ -1,5 +1,3 @@
-# handywisdom.net
-
 Aiming to make humanity's wisdom ever more accessible using frontier AI methods.
 
 Demo in the works ...
